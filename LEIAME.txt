@@ -1,0 +1,11 @@
+LISTA DE REVISÃO - Python (IFSC)
+Uma pasta por questão (q01 ... q10). Para rodar, abra o arquivo principal no Thonny
+e clique em Run (todos os arquivos da questão ficam na MESMA pasta):
+
+  q01 mochila.py     q02 excursao.py      q03 carrinho.py     q04 maratona.py
+  q05 sorteio.py     q06 devolucoes.py    q07 catalogo.py     q08 agenda.py
+  q09 estoque.py     q10 cineflix.py
+
+Observação: o catalogo.json (q07 e q10) foi recriado com 15 títulos seguindo os
+exemplos do enunciado. Se você tiver o catalogo.json original do professor,
+troque o arquivo nas pastas q07 e q10: os programas funcionam com ele também.
